@@ -7,15 +7,19 @@ http://manpages.ubuntu.com/manpages/artful/man8/powerstat.8.html
 
 
 artful (8) powerstat.8.gz
+
 Provided by: powerstat_0.02.12-1_amd64 bug
 
 NAME
+
        powerstat - a tool to measure power consumption
 
 SYNOPSIS
+
        powerstat [options] [delay [count]]
 
 DESCRIPTION
+
        powerstat  measures  the  power  consumption  of  a computer that has a
        battery power source or supports the RAPL (Running Average Power Limit)
        interface.   The output is like vmstat but also shows power consumption
